@@ -1,0 +1,43 @@
+body{
+  background-color: wheat;
+}
+h1.Name{
+  color: rgb(127, 65, 136);
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p.Description{
+  color: rgb(100, 81, 103);
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  position: absolute;
+  width: 300px;
+  position: absolute;
+  top: 60px;
+  left: 290px;
+  font-weight: bold;
+}
+button{
+  border: #ddd;
+  cursor: pointer;
+  background-color: rgb(162, 99, 171);
+  border-color: rgb(162, 99, 171);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  top: 120px;
+  left: 365px;
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  
+  }
+  
+  button:hover {
+    background-color: #631561;
+    color: #fff;
+  }
+
